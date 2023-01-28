@@ -1,0 +1,13 @@
+body {
+    background-image: 
+        linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),
+        url("../timer.jpg");
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h2 {
+    font-size: 1000%;
+    
+}
